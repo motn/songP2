@@ -6,6 +6,7 @@ public class Hangzhou {
 		// TODO Auto-generated method stub
 		System.out.println("welcome to hangzhou!!");
 		System.out.println("Welcome to hangzhou again!!");
+		System.out.println("My name is Deng");
 	}
 
 }
