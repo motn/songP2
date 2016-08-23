@@ -4,6 +4,6 @@ public class Shangyu {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("my name is etof24");
+		System.out.println("my name is etof25");
 	}
 }
