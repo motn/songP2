@@ -6,7 +6,6 @@ public class Shangyu {
 		// TODO Auto-generated method stub
 		System.out.println("my name is etof25");
 		System.out.println("my name is etof27");
-		System.out.println("my name is etof31");
-
+		System.out.println("my name is etof32");
 	}
 }
