@@ -36,5 +36,13 @@ public class Hangzhou {
 		for(int i = 0; i < str.length(); i++)
 			res++;
 		return res;
+
+		System.out.println("welcome to hangzhou 4");
+		System.out.println("my name is etof1");
+		System.out.println("my name is etof10");
+		System.out.println("my name is etof13");
+		System.out.println("my name is etof16");
+		System.out.println("my name is etof18");
+		System.out.println("my name is etof20");
 	}
 }
