@@ -32,7 +32,7 @@ Significant issues:
 *Describe any constraints on the system that have a significant impact on the design of the system.*
 
 
-- A server(might be a laptop) should be set up to provide service to users if the Database is involved.
+- Servers(might be a laptop) should be set up to provide service to users if the Database is involved.
 - Our App is only applied to android devices, which means iphone/ipad users will not have access to this App.
 - We will test this App on limited kinds of emulators and real android devices due to hardware constraints.
 - The interface should be intuitive and easy to use for users, and the amount of functionalities on the android devices should be limited to user requirements. 
@@ -42,7 +42,7 @@ Significant issues:
 
 *Describe the hardware and software that the system must operate in and interact with.*
 
-- Hardware: The app should work on android emulators in Android Studio and real android devices from different manufactories as well.
+- Hardware: The app should work on android emulators in Android Studio and real android devices from different manufactories as well. Also android server and DB server will be needed if DB needs to be implemented.
 
 - Software: The app must be compatible with up-to-date Android versions when running on real android devices.
 
