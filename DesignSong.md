@@ -14,11 +14,12 @@
 
 
 
+
 Assumption and background:
     
 - Easy-to-use Grocery List App can make shopping efficient with smart phones, and our App is applied to android devices.
-
 - Currently we will ignore some fancy functions like sharing lists with friends or scanning barcodes to add items. Our team will focus on how to design, implement and test the App based on the requirements.
+
 
 
 
@@ -29,7 +30,6 @@ Dependencies of software and operational environment:
 
 
 Significant issues: 
-
 - N/A
 
 
