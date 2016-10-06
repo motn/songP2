@@ -42,9 +42,9 @@ Significant issues:
 
 *Describe the hardware and software that the system must operate in and interact with.*
 
-(1) Hardware: The app should work on android emulators in Android Studio and real android devices as well.
+- Hardware: The app should work on android emulators in Android Studio and real android devices from different manufactories as well.
 
-(2) Software: It would be nice if the App could be compatible with all OS and browsers when running on emulators. And it must be compatible with most of Android devices from different manufactories.
+- Software: The app must be compatible with up-to-date Android versions when running on real android devices.
 
 ## 2 Architectural Design
 
