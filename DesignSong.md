@@ -2,7 +2,7 @@
 
 *This is the template for your design document. The parts in italics are concise explanations of what should go in the corresponding sections and should not appear in the final document.*
 
-**Author**: \<person or team name\>
+**Author**: Team46
 
 ## 1 Design Considerations
 
@@ -13,7 +13,7 @@
 *Describe any assumption, background, or dependencies of the software, its use, the operational environment, or significant project issues.*
 
 
-(1) Assumption and background:It is an easy-to-use grocery list app. Fancy functionalities like share/social can be a plus, but the team should focus on how to design, implement and test it based on the requirements from backend to frontent.
+1) Assumption and background:It is an easy-to-use grocery list app. Fancy functionalities like share/social can be a plus, but the team should focus on how to design, implement and test it based on the requirements from backend to frontent.
 
 
 (2) Dependencies of software and operational environment: Android Studio integrated with Java JDK and Android SDK will be used to develop the app.
