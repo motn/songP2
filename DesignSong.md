@@ -55,7 +55,7 @@ Significant issues:
 *This section should provide and describe a diagram that shows the various components and how they are connected. This diagram shows the logical/functional components of the system, where each component represents a cluster of related functionality. In the case of simple systems, where there is a single component, this diagram may be unnecessary; in these cases, simply state so and concisely state why.*
 
 
-<img width="300" alt="screen shot 2016-10-06 at 12 55 05 pm" src="https://cloud.githubusercontent.com/assets/7399319/19174000/8657ce18-8be0-11e6-9c3a-c7f4be5785f4.png">
+<img width="1000" alt="screen shot 2016-10-06 at 12 55 05 pm" src="https://cloud.githubusercontent.com/assets/7399319/19174000/8657ce18-8be0-11e6-9c3a-c7f4be5785f4.png">
 
 ### 2.2 Deployment Diagram
 
