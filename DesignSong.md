@@ -13,23 +13,34 @@
 *Describe any assumption, background, or dependencies of the software, its use, the operational environment, or significant project issues.*
 
 
-Assumption and background:It is an easy-to-use grocery list app. Fancy functionalities like share/social can be a plus, but the team should focus on how to design, implement and test it based on the requirements from backend to frontent.
+(1) Assumption and background:It is an easy-to-use grocery list app. Fancy functionalities like share/social can be a plus, but the team should focus on how to design, implement and test it based on the requirements from backend to frontent.
 
 
-Dependencies of software and operational environment: Java JDK1.8 and Android SDK xxxx will be used to develop, and Android Studio xxx is the edit tool.
+(2) Dependencies of software and operational environment: Android Studio integrated with Java JDK and Android SDK will be used to develop the app.
 
 
-Significant issues: To be perfect, we'd better provide backend service and DB for the app, as well as an powerful UI layout. There will be a lot of things we need to learn to do if we could make it a perfect app for use.
+(3) Significant issues: To be perfect, we'd better provide backend service and DB for the app, as well as an powerful UI layout. There will be a lot of things we need to learn to do if we could make it a perfect app for use.
+
 
 ### 1.2 Constraints
 
 *Describe any constraints on the system that have a significant impact on the design of the system.*
 
 
+(1) A server should be set up to provide service to users if the Databased is involved.
+
+(2) The interface should be intuitive and easy to use for users, and the amount of functionalities on the android devices should be limited to users' requirements. 
+
+
+
 
 ### 1.3 System Environment
 
 *Describe the hardware and software that the system must operate in and interact with.*
+
+(1) Hardware: The app should work on android emulators in Android Studio and real android devices as well.
+
+(2) Software: It would be nice if the App could be compatible with all OS and browsers when running on emulators. And it must be compatible with most of Android devices from different manufactories.
 
 ## 2 Architectural Design
 
@@ -38,6 +49,9 @@ Significant issues: To be perfect, we'd better provide backend service and DB fo
 ### 2.1 Component Diagram
 
 *This section should provide and describe a diagram that shows the various components and how they are connected. This diagram shows the logical/functional components of the system, where each component represents a cluster of related functionality. In the case of simple systems, where there is a single component, this diagram may be unnecessary; in these cases, simply state so and concisely state why.*
+
+
+()
 
 ### 2.2 Deployment Diagram
 
@@ -56,4 +70,4 @@ Significant issues: To be perfect, we'd better provide backend service and DB fo
 *<u>Optionally</u>, you can decide to describe some dynamic aspects of your system using one or more behavioral diagrams, such as sequence and state diagrams.*
 
 ## 4 User Interface Design
-*For GUI-based systems, this section should provide the specific format/layout of the user interface of the system (e.g., in the form of graphical mockups).*
+*For GUI-based systems, this section should provide the specific format/layout of the user interface of the system (e.g., in the form of graphical mockups).*s
