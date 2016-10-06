@@ -13,21 +13,24 @@
 *Describe any assumption, background, or dependencies of the software, its use, the operational environment, or significant project issues.*
 
 
-- Assumption and background:
+
+Assumption and background:
     
-(1) Easy-to-use Grocery List App can make shopping efficient with smart phones, and our App is applied to android devices.
+- Easy-to-use Grocery List App can make shopping efficient with smart phones, and our App is applied to android devices.
 
-(2) Currently we will ignore some fancy functions like sharing lists with friends or scanning barcodes to add items. Our team will focus on how to design, implement and test the App based on the requirements.
-
-
-- Dependencies of software and operational environment: 
-
-Android Studio integrated with Java JDK and Android SDK will be used to develop and test the App.
+- Currently we will ignore some fancy functions like sharing lists with friends or scanning barcodes to add items. Our team will focus on how to design, implement and test the App based on the requirements.
 
 
-- Significant issues: 
 
-N/A
+Dependencies of software and operational environment: 
+
+- Android Studio integrated with Java JDK and Android SDK will be used to develop and test the App.
+
+
+
+Significant issues: 
+
+- N/A
 
 
 
