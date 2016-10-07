@@ -23,7 +23,7 @@ Dependencies of software and operational environment:
 
 
 Significant issues: 
-- N/A
+- Due to a wide range of android devices, android mobiles and tablets are different in shapes and sizes. A successful android App should adapt to various device configurations, which includes different screen size, versions of Android paltform and languages preference.
 
 
 
