@@ -61,6 +61,9 @@ Significant issues:
 
 *This section should describe how the different components will be deployed on actual hardware devices. Similar to the previous subsection, this diagram may be unnecessary for simple systems; in these cases, simply state so and concisely state why.*
 
+
+<img width="1097" alt="screen shot 2016-10-06 at 8 19 56 pm" src="https://cloud.githubusercontent.com/assets/7399319/19177905/52ab2bb0-8c02-11e6-9db1-ed4a68bf2898.png">
+
 ## 3 Low-Level Design
 
 *Describe the low-level design for each of the system components identified in the previous section. For each component, you should provide details in the following UML diagrams to show its internal structure.*
