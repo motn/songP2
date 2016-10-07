@@ -62,7 +62,7 @@ Significant issues:
 *This section should describe how the different components will be deployed on actual hardware devices. Similar to the previous subsection, this diagram may be unnecessary for simple systems; in these cases, simply state so and concisely state why.*
 
 
-<img width="897" alt="screen shot 2016-10-06 at 8 19 56 pm" src="https://cloud.githubusercontent.com/assets/7399319/19177905/52ab2bb0-8c02-11e6-9db1-ed4a68bf2898.png">
+<img width="865" alt="screen shot 2016-10-06 at 8 30 26 pm" src="https://cloud.githubusercontent.com/assets/7399319/19178023/d1c95678-8c03-11e6-9d77-26d419639446.png">
 
 ## 3 Low-Level Design
 
