@@ -73,7 +73,7 @@ Significant issues:
 *In the case of an OO design, the internal structure of a software component would typically be expressed as a UML class diagram that represents the static class structure for the component and their relationships.*
 
 
-<img width="881" alt="screen shot 2016-10-06 at 8 23 32 pm" src="https://cloud.githubusercontent.com/assets/7399319/19177952/d4136e10-8c02-11e6-9e05-f2c215083117.png">
+<img width="781" alt="screen shot 2016-10-06 at 8 23 32 pm" src="https://cloud.githubusercontent.com/assets/7399319/19177952/d4136e10-8c02-11e6-9e05-f2c215083117.png">
 
 ### 3.2 Other Diagrams
 
